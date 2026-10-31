@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\FELIPE\IdeaProjects\DirectLauncher\out\artifacts\DirectLauncher_jar\DirectLauncher.jar</jar>
+  <outfile>C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\FELIPE\.directlauncher\logo.ico</icon>
+  <jre>
+    <path>C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>true</requires64Bit>
+    <minVersion>17</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
