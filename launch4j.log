@@ -1,0 +1,343 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\FELIPE\AppData\Local\Microsoft\WindowsApps;C:\Users\FELIPE\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2026.2.3\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\\bin
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\;C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\FELIPE\AppData\Local\Microsoft\WindowsApps;C:\Users\FELIPE\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2026.2.3\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.017.000_020 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe"
+Args length:	69/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\FELIPE\AppData\Local\Microsoft\WindowsApps;C:\Users\FELIPE\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2026.2.3\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\\bin
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\;C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\FELIPE\AppData\Local\Microsoft\WindowsApps;C:\Users\FELIPE\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2026.2.3\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.017.000_020 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe"
+Args length:	69/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\FELIPE\AppData\Local\Microsoft\WindowsApps;C:\Users\FELIPE\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2026.2.3\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\\bin
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\;C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\FELIPE\AppData\Local\Microsoft\WindowsApps;C:\Users\FELIPE\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2026.2.3\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.017.000_020 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe"
+Args length:	69/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.017.000
+Java max ver:	
+JRE paths:	JAVA_HOME
+Check launcher:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\JAVA_HOME\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 17 (64-bit)
+
+
+Version:	3.50
+CmdLine:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.017.000
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-17
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 17 (64-bit)
+
+
+Version:	3.50
+CmdLine:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.017.000
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-17
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 17 (64-bit)
+
+
+Version:	3.50
+CmdLine:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.017.000
+Java max ver:	
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.017.000_020 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe"
+Args length:	69/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.017.000
+Java max ver:	
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.017.000_020 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe"
+Args length:	69/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.017.000
+Java max ver:	
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.017.000_020 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe"
+Args length:	69/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.017.000_000
+Java max ver:	
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.017.000_020 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe"
+Args length:	69/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.017.000
+Java max ver:	
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.017.000_020 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe"
+Args length:	69/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.027.000
+Java max ver:	
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.017.000_020 / 64-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 27 (64-bit)
+
+
+Version:	3.50
+CmdLine:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.017.000
+Java max ver:	
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.017.000_020 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe"
+Args length:	69/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.017.000
+Java max ver:	
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.017.000_020 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe"
+Args length:	69/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.017.000
+Java max ver:	
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.017.000_020 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe"
+Args length:	69/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.017.000
+Java max ver:	
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.017.000_020 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe"
+Args length:	69/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\FELIPE\IdeaProjects\DirectLauncher\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.017.000
+Java max ver:	
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.017.000_020 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe"
+Args length:	69/32768 chars
+Exit code:	0
