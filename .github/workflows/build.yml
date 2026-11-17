@@ -44,13 +44,18 @@ jobs:
         shell: pwsh
         timeout-minutes: 5
         run: |
-          $jar = "C:\Program Files\Launch4j\launch4j.jar"
-          if (-not (Test-Path $jar)) {
-            Get-ChildItem "C:\Program Files\Launch4j" | Format-Table Name
-            throw "launch4j.jar não encontrado em $jar"
+          $raizes = @("C:\Program Files", "C:\Program Files (x86)", "C:\ProgramData\chocolatey\lib")
+          $jar = Get-ChildItem -Path $raizes -Recurse -Depth 3 -Filter "launch4j.jar" -ErrorAction SilentlyContinue | Select-Object -First 1
+          $exe = Get-ChildItem -Path $raizes -Recurse -Depth 3 -Filter "launch4jc.exe" -ErrorAction SilentlyContinue | Select-Object -First 1
+          if ($jar) {
+            Write-Host "A usar jar: $($jar.FullName)"
+            & java -jar $jar.FullName launch4j.xml
+          } elseif ($exe) {
+            Write-Host "A usar exe: $($exe.FullName)"
+            & $exe.FullName launch4j.xml
+          } else {
+            throw "Launch4j não encontrado em Program Files nem em chocolatey\lib"
           }
-          Write-Host "A usar: $jar"
-          & java -jar $jar launch4j.xml
           if ($LASTEXITCODE -ne 0) { throw "Launch4j falhou com código $LASTEXITCODE" }
           if (-not (Test-Path build\DirectLauncher.exe)) { throw "DirectLauncher.exe não foi gerado" }
 
