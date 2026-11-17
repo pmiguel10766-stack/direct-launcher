@@ -15,10 +15,10 @@ jobs:
 
     steps:
       - name: Clonar repositório
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Instalar Java 17
-        uses: actions/setup-java@v4
+        uses: actions/setup-java@v5
         with:
           distribution: temurin
           java-version: '17'
@@ -35,13 +35,21 @@ jobs:
         run: jar cfe build\DirectLauncher.jar Main -C build\classes .
 
       - name: Instalar Launch4j
+        shell: pwsh
         run: choco install launch4j -y --no-progress
 
       - name: Gerar DirectLauncher.exe
         shell: pwsh
         run: |
-          $launch4j = Get-ChildItem "C:\Program Files*\Launch4j\launch4jc.exe" | Select-Object -First 1
-          & $launch4j.FullName "launch4j.xml"
+          # O executável launch4jc.exe exige um JRE instalado e falhou no runner.
+          # Por isso corremos o launch4j.jar diretamente com o Java 17.
+          $jar = Get-ChildItem -Path "C:\Program Files*", "C:\ProgramData\chocolatey\lib" `
+                   -Recurse -Filter "launch4j.jar" -ErrorAction SilentlyContinue |
+                 Select-Object -First 1
+          if (-not $jar) { throw "launch4j.jar não encontrado" }
+          Write-Host "A usar: $($jar.FullName)"
+          & java -jar $jar.FullName launch4j.xml
+          if ($LASTEXITCODE -ne 0) { throw "Launch4j falhou com código $LASTEXITCODE" }
           if (-not (Test-Path build\DirectLauncher.exe)) { throw "DirectLauncher.exe não foi gerado" }
 
       - name: Calcular SHA-256
