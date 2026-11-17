@@ -2,8 +2,8 @@
 <launch4jConfig>
   <dontWrapJar>false</dontWrapJar>
   <headerType>gui</headerType>
-  <jar>C:\Users\FELIPE\IdeaProjects\DirectLauncher\out\artifacts\DirectLauncher_jar\DirectLauncher.jar</jar>
-  <outfile>C:\Users\FELIPE\IdeaProjects\DirectLauncher\DirectLauncher.exe</outfile>
+  <jar>%USERPROFILE%\IdeaProjects\DirectLauncher\out\artifacts\DirectLauncher_jar\DirectLauncher.jar</jar>
+  <outfile>%USERPROFILE%\IdeaProjects\DirectLauncher\DirectLauncher.exe</outfile>
   <errTitle>DirectLauncher</errTitle>
   <cmdLine></cmdLine>
   <chdir>.</chdir>
@@ -13,7 +13,7 @@
   <stayAlive>false</stayAlive>
   <restartOnCrash>false</restartOnCrash>
   <manifest></manifest>
-  <icon>C:\Users\FELIPE\.directlauncher\logo.ico</icon>
+  <icon>%USERPROFILE%\.directlauncher\logo.ico</icon>
   <jre>
     <path></path>
     <requiresJdk>false</requiresJdk>
