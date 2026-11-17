@@ -12,6 +12,7 @@ permissions:
 jobs:
   build:
     runs-on: windows-latest
+    timeout-minutes: 20
 
     steps:
       - name: Clonar repositório
@@ -36,19 +37,20 @@ jobs:
 
       - name: Instalar Launch4j
         shell: pwsh
+        timeout-minutes: 5
         run: choco install launch4j -y --no-progress
 
       - name: Gerar DirectLauncher.exe
         shell: pwsh
+        timeout-minutes: 5
         run: |
-          # O executável launch4jc.exe exige um JRE instalado e falhou no runner.
-          # Por isso corremos o launch4j.jar diretamente com o Java 17.
-          $jar = Get-ChildItem -Path "C:\Program Files*", "C:\ProgramData\chocolatey\lib" `
-                   -Recurse -Filter "launch4j.jar" -ErrorAction SilentlyContinue |
-                 Select-Object -First 1
-          if (-not $jar) { throw "launch4j.jar não encontrado" }
-          Write-Host "A usar: $($jar.FullName)"
-          & java -jar $jar.FullName launch4j.xml
+          $jar = "C:\Program Files\Launch4j\launch4j.jar"
+          if (-not (Test-Path $jar)) {
+            Get-ChildItem "C:\Program Files\Launch4j" | Format-Table Name
+            throw "launch4j.jar não encontrado em $jar"
+          }
+          Write-Host "A usar: $jar"
+          & java -jar $jar launch4j.xml
           if ($LASTEXITCODE -ne 0) { throw "Launch4j falhou com código $LASTEXITCODE" }
           if (-not (Test-Path build\DirectLauncher.exe)) { throw "DirectLauncher.exe não foi gerado" }
 
